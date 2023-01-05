@@ -1,0 +1,2 @@
+g++ -o generated_program generated_program.cpp
+./generated_program
