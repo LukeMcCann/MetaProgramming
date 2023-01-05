@@ -1,2 +1,3 @@
-g++ -o generated_program generated_program.cpp
-./generated_program
+all:
+  g++ -o generated_program generated_program.cpp ./generated_program
+
